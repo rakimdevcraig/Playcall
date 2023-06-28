@@ -1,0 +1,57 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+/* Div container Styles*/
+
+.bunchte{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.spacing{
+    display: flex;
+    justify-content: center;
+}
+
+.slantpost{
+    display: flex;
+    justify-content: center;
+}
+
+.crossman{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/*Image styles*/
+.bunchte-img-wrapper{
+    width:35rem;
+    height:25rem;
+}
+
+.spacing-img-wrapper{
+    width:60%;
+    height:20rem; 
+}
+
+.slantpost-img-wrapper{
+    width:60%;
+    height:20rem;
+}
+
+.crossman-img-wrapper{
+    width:60%;
+    height:20rem;
+}
+
+.img{
+    width:100%;
+    height:100%;
+}
